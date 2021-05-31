@@ -1,1 +1,1 @@
-holds only all final objects from "./edit"
+only holds final objects from "./edit"
