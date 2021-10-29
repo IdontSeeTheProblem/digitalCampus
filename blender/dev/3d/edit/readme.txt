@@ -1,7 +1,6 @@
-holds all versioned objects
+Contains all 3D model objects of BA Glauchau buildings.
 
-versioning has to be approved before final pull
-
-nomenclature:
-  [building name]_v[version number].blend
+Nomenclature:
+  [building name].blend
+  [building name]_[building part].blender
 
